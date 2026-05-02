@@ -157,17 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
+<div id="irnova--nova-proxy-app"></div>
 
-### 2dust--v2rayN
+### IRNova--Nova-Proxy-App
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
 <!-- RELEASES_END -->
