@@ -157,13 +157,16 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="irnova--nova-proxy-app"></div>
+<div id="ajavadinezhad--zyrln"></div>
 
-### IRNova--Nova-Proxy-App
+### ajavadinezhad--zyrln
 
-🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
+| `zyrln-1.4.0.apk` | 22.9 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.4.0.apk) |
+| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
+| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
+| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/developerAmira/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
 <!-- RELEASES_END -->
